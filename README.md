@@ -1,9 +1,8 @@
 # TempCheckr
 An android application that displays a 7-day forecast for any given location. 
 
-
-
-*Want to try the app out? Download the test version here: https://tsfr.io/5x3cjg* 
+*Want to try out the app? Download the test version here: https://tsfr.io/5x3cjg* 
+*Note: Not all features will run without starting the server locally on your machine. Complete project installation instructions are provided in the "Documentation" folder. * 
 
 **Features**
 
@@ -17,3 +16,11 @@ An android application that displays a 7-day forecast for any given location.
 ![Image of front page](https://github.com/SumaitaH/TempCheckr/blob/master/Images/Screen%20Shot%202018-12-21%20at%204.01.25%20AM.png) ![7-day forecast](https://github.com/SumaitaH/TempCheckr/blob/master/Images/Screen%20Shot%202018-12-21%20at%204.01.49%20AM.png) 
 
 ![Servlet](https://github.com/SumaitaH/TempCheckr/blob/master/Images/Screen%20Shot%202018-12-21%20at%204.06.09%20AM.png) ![Search History](https://github.com/SumaitaH/TempCheckr/blob/master/Images/Screen%20Shot%202018-12-21%20at%204.06.43%20AM.png)
+
+
+**Front-End:** Android, XML, Servlet
+**Back-End:** MySQL, JSON 
+
+**To run locally on your machine, follow the instructions provided in the "Documentation" folder.** 
+ 
+
