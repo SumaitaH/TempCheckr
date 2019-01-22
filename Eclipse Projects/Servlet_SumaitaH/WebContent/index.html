@@ -1,0 +1,30 @@
+<html>
+<head></head>
+<body>
+
+<form action="FileUploadServlet" method="post">
+Please Press Button Below For Search History:
+<br>
+<input type="submit" value="Get Search History">
+</form>
+
+<form action="FileUploadServlet"  method="get">
+This form will update searches to the database.
+<br>
+Date: <input type="date" name="date" value = "2018-02-12">
+<br>
+Location: <input type="text" name = "location">
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
+
+<script>
+var d = new Date();
+document.getElementById("demo").value = d;
+</script>
+
+
+
+</body>
+</html>
