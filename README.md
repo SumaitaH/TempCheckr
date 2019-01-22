@@ -3,7 +3,7 @@ An android application that displays a 7-day forecast for any given location.
 
 *Want to try out the app? Download the test version here: https://tsfr.io/5x3cjg* 
 
-*Note: Not all features will run without starting the server locally on your machine. Complete project installation instructions are provided in the "Documentation" folder.* 
+*Note: Not all features will run in the test version. This will require a complete project installation, which can be done using the instructions provided in the "Documentation" folder.* 
 
 **Features**
 
