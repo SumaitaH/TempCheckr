@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".activities.MainActivity">
+
+
+    <AutoCompleteTextView
+        android:id="@+id/citySearch"
+        android:layout_width="191dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="163dp"
+        android:layout_marginRight="163dp"
+        android:gravity="start|end"
+        android:hint="@string/enter_city_or_zip_code"
+        android:imeOptions="actionSend|actionDone|actionGo"
+        android:inputType="text" />
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="283dp"
+        android:text="@string/get_weather" />
+
+    <Button
+        android:id="@+id/webview_button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/citySearch"
+        android:layout_alignBottom="@+id/citySearch"
+        android:layout_marginStart="117dp"
+        android:layout_marginBottom="-230dp"
+        android:text="@string/search_history"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/citySearch"
+        android:layout_alignLeft="@+id/citySearch"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="39dp"
+        android:gravity="center"
+        android:text="TempCheckr "
+        android:textColor="@color/darkblue"
+        android:textSize="43sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="107dp"
+        android:layout_marginLeft="107dp"
+        android:layout_marginTop="111dp"
+        android:text="7-Day Forecast "
+        android:textColor="@color/blue"
+        android:textSize="24sp" />
+
+    <WebView
+        android:id="@+id/wb"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="-27dp" />
+
+
+</RelativeLayout>

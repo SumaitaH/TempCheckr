@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempCheckr</string>
+    <string name="search_history">Search History</string>
+    <string name="enter_city_or_zip_code">Enter city, or zip code</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="get_started">Get Started</string>
+    <string name="Welcome_Text">Weather App</string>
+</resources>

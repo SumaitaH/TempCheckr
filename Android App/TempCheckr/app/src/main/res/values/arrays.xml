@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_of_cities"><item>
+  Tokyo
+</item>
+        <item>
+  New York
+</item>
+        <item>
+  Delhi
+</item>
+        <item>
+  Los Angeles
+</item>
+        <item>
+  Shanghai
+</item>
+        <item>
+  Chicago
+</item>
+        <item>
+  San Paulo
+</item>
+        <item>
+  Houston
+</item>
+        <item>
+  Mumbai
+</item>
+        <item>
+  Philadelphia
+</item>
+        <item>
+  Mexico City
+</item>
+        <item>
+  Phoenix
+</item>
+        <item>
+  Beijing
+</item>
+        <item>
+  San Antonio
+</item>
+        <item>
+  Osaka
+</item>
+        <item>
+  San Diego
+</item>
+        <item>
+  Cairo
+</item>
+        <item>
+  Dallas
+</item>
+        <item>
+  San Jose
+</item>
+        <item>
+  Dhaka
+</item>
+        <item>
+  Austin
+</item>
+        <item>
+  Karachi
+</item>
+        <item>
+  Jacksonville
+</item>
+        <item>
+  Buenos Aires
+</item>
+        <item>
+  San Francisco
+</item>
+        <item>
+  Kolkata
+</item>
+        <item>
+  Indianapolis
+</item>
+        <item>
+  Istanbul
+</item>
+        <item>
+  Columbus
+</item>
+        <item>
+  Chongquin
+</item>
+        <item>
+  Fort Worth
+</item>
+        <item>
+  Lagos
+</item>
+        <item>
+  Charlotte
+</item>
+        <item>
+  Manila
+</item>
+        <item>
+  Seattle
+</item>
+        <item>
+  Rio de Janeiro
+</item>
+        <item>
+  Denver
+</item>
+        <item>
+  Guangzhou
+</item>
+        <item>
+  El Paso
+</item>
+        <item>
+  Detroit
+</item>
+        <item>
+  Moscow
+</item>
+        <item>
+  Washington DC
+</item>
+        <item>
+  Kinshasa
+</item>
+        <item>
+  Boston
+</item>
+        <item>
+  Paris
+</item>
+        <item>
+  Memphis
+</item>
+        <item>
+  Jakarta
+</item>
+        <item>
+  Nashville
+</item>
+        <item>
+  London
+</item>
+        <item>
+  Portland
+</item>
+        <item>
+  Bangalore
+</item>
+        <item>
+  Oklahoma City
+</item>
+        <item>
+  Lima
+</item>
+        <item>
+  Las Vegas
+</item>
+        <item>
+  Chennai
+</item>
+        <item>
+  Baltimore
+</item>
+        <item>
+  Seoul-Incheon
+</item>
+        <item>
+  Louisville
+</item>
+        <item>
+  Bogota
+</item>
+        <item>
+  Milwaukee
+</item>
+        <item>
+  Nagoya
+</item>
+        <item>
+  Albuquerque
+</item>
+        <item>
+  Johannesburg
+</item>
+        <item>
+  Tucson
+</item>
+        <item>
+  Bangkok
+</item>
+        <item>
+  Fresno
+</item>
+        <item>
+  Hyderabad
+</item>
+        <item>
+  Sacramento
+</item>
+        <item>
+  Kansas City
+</item>
+        <item>
+  Lahore
+</item>
+        <item>
+  Long Beach
+</item>
+        <item>
+  Tehran
+</item>
+        <item>
+  Mesa
+</item>
+        <item>
+  Wuhan
+</item>
+        <item>
+  Atlanta
+</item>
+        <item>
+  Chengdu
+</item>
+        <item>
+  Colorado Springs
+</item>
+        <item>
+  Ahmadabad
+</item>
+        <item>
+  Virginia Beach
+</item>
+        <item>
+  Hong Kong
+</item>
+        <item>
+  Raleigh
+</item>
+        <item>
+  Omaha
+</item>
+        <item>
+  Ho Chi Minh City
+</item>
+        <item>
+  Kuala Lumpu
+</item>
+        <item>
+  Miami
+</item>
+        <item>
+  Baghdad
+</item>
+        <item>
+  Oakland
+</item>
+        <item>
+  Santiago
+</item>
+        <item>
+  Minneapolis
+</item>
+        <item>
+  Riyadh
+</item>
+        <item>
+  Tulsa
+</item>
+        <item>
+  Madrid
+</item>
+        <item>
+  Wichita
+</item>
+        <item>
+  Toronto
+</item>
+        <item>
+  New Orleans
+</item>
+        <item>
+  Arlington
+</item>
+        <item>
+  Singapore
+</item>
+        <item>
+  Kitakyushu
+</item>
+        <item>
+  Luanda
+</item>
+        <item>
+  Barcelona
+</item>
+        <item>
+  Khartoum
+</item>
+        <item>
+  Dar es Salaam
+</item>
+        <item>
+  St. Petersburg
+</item>
+        <item>
+  Abidjan
+</item>
+        <item>
+  Guadalajara
+</item>
+        <item>
+  Yangon
+</item>
+        <item>
+  Alexandria
+</item>
+        <item>
+  Ankara
+</item>
+        <item>
+  Kabul
+</item>
+        <item>
+  Quingdao
+</item>
+        <item>
+  Chittagong
+</item>
+        <item>
+  Monterrey
+</item>
+        <item>
+  Sydney
+</item>
+        <item>
+  Melbourme
+</item>
+        <item>
+  Brazilia
+</item>
+        <item>
+  Jeddah
+</item>
+        <item>
+  Montréal
+</item>
+        <item>
+  Shantou
+</item>
+        <item>
+  Nairobi
+</item>
+        <item>
+  Medellin
+</item>
+
+    </string-array>
+</resources>
